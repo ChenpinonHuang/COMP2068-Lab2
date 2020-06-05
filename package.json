@@ -1,0 +1,24 @@
+{
+  "name": "my-first-app",
+  "version": "1.0.0",
+  "description": "A number guessing game",
+  "main": "firstApp.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon firstApp.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChenpinonHuang/COMP2068-Lab2.git"
+  },
+  "author": "Chengbin Huang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChenpinonHuang/COMP2068-Lab2/issues"
+  },
+  "homepage": "https://github.com/ChenpinonHuang/COMP2068-Lab2#readme"
+}
